@@ -7,8 +7,7 @@ Compiler Version:
   gcc (Debian 10.2.1-6) 10.2.1 20210110
 
 How to compile and run:
-  1- gcc *.c -Wall
-  2- ./a.out
+  1- make
 
 How to check memory leaks:
   1- gcc *.c -Wall -g

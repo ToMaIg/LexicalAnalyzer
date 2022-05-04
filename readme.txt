@@ -1,4 +1,4 @@
-NOTE: the following OS and Compiler versions are not requirements.
+The following OS and Compiler versions are not requirements.
 --------------------------------------------------------------
 Operative System Version used:
   Distributor ID: Kali

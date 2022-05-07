@@ -15,6 +15,6 @@ How to check memory leaks:
   1- gcc *.c -Wall -g
   2- valgrind ./a.out
 
-NOTE: you can install valgrind with the following commands: 
+NOTE: In case valgrind isn't already installed, you can run the following commands: 
   1- sudo apt-get update
   2- sudo apt-get install valgrind
